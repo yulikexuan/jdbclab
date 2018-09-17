@@ -1,0 +1,6 @@
+logging:
+  level:
+    com.yuli.jdbclab: debug
+spring:
+  main:
+    web-application-type: none
