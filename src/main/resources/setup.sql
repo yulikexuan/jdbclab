@@ -50,7 +50,7 @@ INSERT INTO customer VALUES (5009, 'Deborah', 'Smith', 'deborah.smith@comcast.ne
 INSERT INTO customer VALUES (5010, 'Jennifer', 'McGinn', 'jennifer.mcginn@comcast.net', '555-250-0918');
 
 -- Insert table: book
-INSERT INTO book VALUES ('142311339X', 'The Lost Hero(Heroes of Olympus, Book 1)', TO_DATE('2010-1--12', 'yyyy-mm-dd'), 'Hardcover', 10.95);
+INSERT INTO book VALUES ('142311339X', 'The Lost Hero(Heroes of Olympus, Book 1)', TO_DATE('2010-1-12', 'yyyy-mm-dd'), 'Hardcover', 10.95);
 INSERT INTO book VALUES ('0689852223', 'The House of the Scorpion', TO_DATE('2002-01-01', 'yyyy-mm-dd'), 'Hardcover', 16.95);
 INSERT INTO book VALUES ('0525423656', 'Crossed (Matched Trilogy, Book 2', TO_DATE('2011-11-01', 'yyyy-mm-dd'), 'Hardcover', 12.95);
 INSERT INTO book VALUES ('1423153627', 'The Kane Chronicles Survival Guide', TO_DATE('2012-03-01', 'yyyy-mm-dd'), 'Hardcover', 16.95);
